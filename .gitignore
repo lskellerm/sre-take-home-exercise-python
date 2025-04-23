@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Notes taken during the exercise
+docs/
+
+# .vscode and devContainer files
+.devcontainer
+.vscode
+Dockerfile
+.dockerignore
+
+# uv
+uv.lock
+pyproject.toml
+.python-version
+
+# Environments
+.venv
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+.pre-commit-config.yaml
+
+# Work in progress version, renamed to compare the origin version when writing up README.md
+async_main.py
+
+# Demo proof of concept for creating dashboard using Dash by Plotly
+dashboard/
