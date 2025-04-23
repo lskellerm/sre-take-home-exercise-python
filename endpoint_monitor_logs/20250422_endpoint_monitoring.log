@@ -1,0 +1,225 @@
+2025-04-22 14:08:00 - INFO - Starting health check cycle at 2025-04-22 14:08:00
+2025-04-22 14:08:01 - ERROR - Request to HTTPBin Get Test timed out, https://httpbin.org/get is DOWN
+2025-04-22 14:08:01 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:08:01 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:08:01 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:08:01 - INFO - www.githubstatus.com is UP
+2025-04-22 14:08:01 - INFO - jsonplaceholder.typicode.com is UP
+2025-04-22 14:08:01 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:01 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:01 - INFO - api.thedogapi.com is UP
+2025-04-22 14:08:01 - INFO - randomuser.me is DOWN
+2025-04-22 14:08:01 - INFO - ip-api.com is UP
+2025-04-22 14:08:01 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:08:01 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:01 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:08:01 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:08:01 - INFO - jsonplaceholder.typicode.com has 100% availability percentage
+2025-04-22 14:08:01 - INFO - httpbin.org has 0% availability percentage
+2025-04-22 14:08:01 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:08:01 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:08:01 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:08:01 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:08:01 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:08:15 - INFO - Starting health check cycle at 2025-04-22 14:08:15
+2025-04-22 14:08:16 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:08:16 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:08:16 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:08:16 - INFO - www.githubstatus.com is UP
+2025-04-22 14:08:16 - INFO - jsonplaceholder.typicode.com is UP
+2025-04-22 14:08:16 - INFO - httpbin.org is UP
+2025-04-22 14:08:16 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:16 - INFO - api.thedogapi.com is UP
+2025-04-22 14:08:16 - INFO - randomuser.me is DOWN
+2025-04-22 14:08:16 - INFO - ip-api.com is UP
+2025-04-22 14:08:16 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:08:16 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:16 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:08:16 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:08:16 - INFO - jsonplaceholder.typicode.com has 100% availability percentage
+2025-04-22 14:08:16 - INFO - httpbin.org has 17% availability percentage
+2025-04-22 14:08:16 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:08:16 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:08:16 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:08:16 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:08:16 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:08:30 - INFO - Starting health check cycle at 2025-04-22 14:08:30
+2025-04-22 14:08:31 - ERROR - Request to HTTPBin Get Test timed out, https://httpbin.org/get is DOWN
+2025-04-22 14:08:31 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:08:31 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:08:31 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:08:31 - INFO - www.githubstatus.com is UP
+2025-04-22 14:08:31 - INFO - jsonplaceholder.typicode.com is UP
+2025-04-22 14:08:31 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:31 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:31 - INFO - api.thedogapi.com is UP
+2025-04-22 14:08:31 - INFO - randomuser.me is DOWN
+2025-04-22 14:08:31 - INFO - ip-api.com is UP
+2025-04-22 14:08:31 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:08:31 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:31 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:08:31 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:08:31 - INFO - jsonplaceholder.typicode.com has 100% availability percentage
+2025-04-22 14:08:31 - INFO - httpbin.org has 11% availability percentage
+2025-04-22 14:08:31 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:08:31 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:08:31 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:08:31 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:08:31 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:08:45 - INFO - Starting health check cycle at 2025-04-22 14:08:45
+2025-04-22 14:08:46 - ERROR - Request to JSONPlaceholder Posts timed out, https://jsonplaceholder.typicode.com/posts is DOWN
+2025-04-22 14:08:46 - ERROR - Request to HTTPBin Get Test timed out, https://httpbin.org/get is DOWN
+2025-04-22 14:08:46 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:08:46 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:08:46 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:08:46 - INFO - www.githubstatus.com is UP
+2025-04-22 14:08:46 - INFO - jsonplaceholder.typicode.com is DOWN
+2025-04-22 14:08:46 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:46 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:46 - INFO - api.thedogapi.com is UP
+2025-04-22 14:08:46 - INFO - randomuser.me is DOWN
+2025-04-22 14:08:46 - INFO - ip-api.com is UP
+2025-04-22 14:08:46 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:08:46 - INFO - httpbin.org is DOWN
+2025-04-22 14:08:46 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:08:46 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:08:46 - INFO - jsonplaceholder.typicode.com has 75% availability percentage
+2025-04-22 14:08:46 - INFO - httpbin.org has 8% availability percentage
+2025-04-22 14:08:46 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:08:46 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:08:46 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:08:46 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:08:46 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:09:00 - INFO - Starting health check cycle at 2025-04-22 14:09:00
+2025-04-22 14:09:01 - ERROR - Request to HTTPBin Get Test timed out, https://httpbin.org/get is DOWN
+2025-04-22 14:09:01 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:09:01 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:09:01 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:09:01 - INFO - www.githubstatus.com is UP
+2025-04-22 14:09:01 - INFO - jsonplaceholder.typicode.com is UP
+2025-04-22 14:09:01 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:01 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:01 - INFO - api.thedogapi.com is UP
+2025-04-22 14:09:01 - INFO - randomuser.me is DOWN
+2025-04-22 14:09:01 - INFO - ip-api.com is UP
+2025-04-22 14:09:01 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:09:01 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:01 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:09:01 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:09:01 - INFO - jsonplaceholder.typicode.com has 80% availability percentage
+2025-04-22 14:09:01 - INFO - httpbin.org has 7% availability percentage
+2025-04-22 14:09:01 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:09:01 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:09:01 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:09:01 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:09:01 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:09:15 - INFO - Starting health check cycle at 2025-04-22 14:09:15
+2025-04-22 14:09:16 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:09:16 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:09:16 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:09:16 - INFO - www.githubstatus.com is UP
+2025-04-22 14:09:16 - INFO - jsonplaceholder.typicode.com is UP
+2025-04-22 14:09:16 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:16 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:16 - INFO - api.thedogapi.com is UP
+2025-04-22 14:09:16 - INFO - randomuser.me is DOWN
+2025-04-22 14:09:16 - INFO - ip-api.com is UP
+2025-04-22 14:09:16 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:09:16 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:16 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:09:16 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:09:16 - INFO - jsonplaceholder.typicode.com has 83% availability percentage
+2025-04-22 14:09:16 - INFO - httpbin.org has 6% availability percentage
+2025-04-22 14:09:16 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:09:16 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:09:16 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:09:16 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:09:16 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:09:30 - INFO - Starting health check cycle at 2025-04-22 14:09:30
+2025-04-22 14:09:31 - ERROR - Request to HTTPBin Get Test timed out, https://httpbin.org/get is DOWN
+2025-04-22 14:09:31 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 14:09:31 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 14:09:31 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 14:09:31 - INFO - www.githubstatus.com is UP
+2025-04-22 14:09:31 - INFO - jsonplaceholder.typicode.com is UP
+2025-04-22 14:09:31 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:31 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:31 - INFO - api.thedogapi.com is UP
+2025-04-22 14:09:31 - INFO - randomuser.me is DOWN
+2025-04-22 14:09:31 - INFO - ip-api.com is UP
+2025-04-22 14:09:31 - INFO - api.openweathermap.org is DOWN
+2025-04-22 14:09:31 - INFO - httpbin.org is DOWN
+2025-04-22 14:09:31 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 14:09:31 - INFO - www.githubstatus.com has 100% availability percentage
+2025-04-22 14:09:31 - INFO - jsonplaceholder.typicode.com has 86% availability percentage
+2025-04-22 14:09:31 - INFO - httpbin.org has 5% availability percentage
+2025-04-22 14:09:31 - INFO - api.thedogapi.com has 100% availability percentage
+2025-04-22 14:09:31 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 14:09:31 - INFO - ip-api.com has 100% availability percentage
+2025-04-22 14:09:31 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 14:09:31 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 14:09:43 - INFO - 
+Monitoring stopped by user.
+2025-04-22 18:29:22 - INFO - Starting health check cycle...
+2025-04-22 18:29:23 - ERROR - Request to GitHub API Status timed out, https://www.githubstatus.com/api/v2/status.json is DOWN
+2025-04-22 18:29:23 - ERROR - Request to JSONPlaceholder Posts timed out, https://jsonplaceholder.typicode.com/posts is DOWN
+2025-04-22 18:29:23 - ERROR - Request to HTTPBin Get Test timed out, https://httpbin.org/get is DOWN
+2025-04-22 18:29:23 - ERROR - Request to HTTPBin Post Test timed out, https://httpbin.org/post is DOWN
+2025-04-22 18:29:23 - ERROR - Request to Dog API Random timed out, https://api.thedogapi.com/v1/images/search is DOWN
+2025-04-22 18:29:23 - ERROR - Request to Random User API timed out, https://randomuser.me/api/ is DOWN
+2025-04-22 18:29:23 - ERROR - Request to IP API timed out, http://ip-api.com/json is DOWN
+2025-04-22 18:29:23 - ERROR - Request to Open Weather Map timed out, https://api.openweathermap.org/data/2.5/weather is DOWN
+2025-04-22 18:29:23 - ERROR - Request to HTTPBin Headers Test timed out, https://httpbin.org/headers is DOWN
+2025-04-22 18:29:23 - INFO - www.githubstatus.com is DOWN
+2025-04-22 18:29:23 - INFO - jsonplaceholder.typicode.com is DOWN
+2025-04-22 18:29:23 - INFO - httpbin.org is DOWN
+2025-04-22 18:29:23 - INFO - httpbin.org is DOWN
+2025-04-22 18:29:23 - INFO - api.thedogapi.com is DOWN
+2025-04-22 18:29:23 - INFO - randomuser.me is DOWN
+2025-04-22 18:29:23 - INFO - ip-api.com is DOWN
+2025-04-22 18:29:23 - INFO - api.openweathermap.org is DOWN
+2025-04-22 18:29:23 - INFO - httpbin.org is DOWN
+2025-04-22 18:29:23 - INFO - 
+
+Queried 9 endpoints across 7 unique domain(s) this cycle
+
+2025-04-22 18:29:23 - INFO - www.githubstatus.com has 0% availability percentage
+2025-04-22 18:29:23 - INFO - jsonplaceholder.typicode.com has 0% availability percentage
+2025-04-22 18:29:23 - INFO - httpbin.org has 0% availability percentage
+2025-04-22 18:29:23 - INFO - api.thedogapi.com has 0% availability percentage
+2025-04-22 18:29:23 - INFO - randomuser.me has 0% availability percentage
+2025-04-22 18:29:23 - INFO - ip-api.com has 0% availability percentage
+2025-04-22 18:29:23 - INFO - api.openweathermap.org has 0% availability percentage
+2025-04-22 18:29:23 - INFO - 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-22 18:29:31 - INFO - 
+Monitoring stopped by user.
+
