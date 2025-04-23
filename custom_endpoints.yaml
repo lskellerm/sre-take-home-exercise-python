@@ -1,0 +1,43 @@
+- name: "GitHub API Status"
+  url: "https://www.githubstatus.com/api/v2/status.json"
+  method: "GET"
+
+- name: "JSONPlaceholder Posts"
+  url: "https://jsonplaceholder.typicode.com/posts"
+  method: "GET"
+
+- name: "HTTPBin Get Test"
+  url: "https://httpbin.org/get"
+  method: "GET"
+
+- name: "HTTPBin Post Test"
+  url: "https://httpbin.org/post"
+  method: "POST"
+  headers:
+    content-type: "application/json"
+  body: '{"test": "data"}'
+
+- name: "Dog API Random"
+  url: "https://api.thedogapi.com/v1/images/search"
+  method: "GET"
+
+- name: "Random User API"
+  url: "https://randomuser.me/api/"
+  method: "GET"
+
+- name: "IP API"
+  url: "http://ip-api.com/json"
+  method: "GET"
+
+- name: "Open Weather Map"
+  url: "https://api.openweathermap.org/data/2.5/weather"
+  method: "GET"
+  headers:
+    content-type: "application/json"
+
+- name: "HTTPBin Headers Test"
+  url: "https://httpbin.org/headers"
+  method: "GET"
+  headers:
+    accept: "application/json"
+    user-agent: "Health-Check-Monitor/1.0"
